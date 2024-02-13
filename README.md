@@ -2,7 +2,7 @@
 
 Furniture Fusion is a dynamic and visually appealing web application built using React JS and Tailwind CSS. This project showcases the fusion of innovative design and functionality, offering users an immersive experience in the furniture world.
 
-Feel free to explore the codebase and experience the seamless blend of design and functionality at [Live Demo Link](https://654132a5a32b8432a49ef708--idyllic-horse-2f46d0.netlify.app/).
+Feel free to explore the codebase and experience the seamless blend of design and functionality at [Live Demo Link](https://clever-croissant-f7f6d2.netlify.app/).
 
 ## Sections:
 
@@ -55,5 +55,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-For any inquiries or collaborations, please contact me at [towsif.muhtadi@gmail.com](mailto:towsif.muhtadi@gmail.com).
+For any inquiries or collaborations, please contact me at [istiakfahim2@gmail.com](mailto:istiakfahim2@gmail.com).
 
